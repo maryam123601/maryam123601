@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I’m Mariam Anuoluwapo
 
-<!--
-**maryam123601/maryam123601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate data analyst who loves telling stories with data 📊. I enjoy using tools like Excel, Power BI, and Python to clean, explore, and visualize real-world datasets.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills
+- 📌 Excel (Power Query, Power Pivot, Dashboarding)
+- 🐍 Python (Data Cleaning, Visualization)
+- 📊 Power BI (Learning in progress)
+- 🧠 SQL (Learning in progress)
+
+---
+
+### 📂 Portfolio Projects
+
+🔹 [Jumia Sales Dashboard](https://github.com/maryam123601/Jumia-Dashboard)  
+🔹 [Airline Excel Dashboard](https://github.com/maryam123601/Airline-Dashboard)
+
+---
+
+### 💼 Currently Learning:
+- Advanced Power BI
+- SQL Queries
+- Dashboard storytelling
+
+---
+
+### 🔗 Connect With Me:
+- [LinkedIn](https://www.linkedin.com/in/mariam-anuoluwapo-1a1770325)
+- 📧 maryamharnuholuwapoisiaq@gmail.com
+
+---
+
+### 💬 Fun Fact:
+I started learning Python just out of curiosity... now I use it to solve real-world problems! 
+
+---
