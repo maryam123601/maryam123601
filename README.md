@@ -14,8 +14,8 @@ I'm a passionate data analyst who loves telling stories with data 📊. I enjoy 
 
 ### 📂 Portfolio Projects
 
-🔹 [Jumia Sales Dashboard](https://github.com/maryam123601/Jumia-Dashboard)  
-🔹 [Airline Excel Dashboard](https://github.com/maryam123601/Airline-Dashboard)
+🔹 [Jumia Sales Dashboard](https://github.com/maryam123601/Jumia_dashboard)  
+🔹 [Airline Excel Dashboard](https://github.com/maryam123601/Airline_dashboard)
 
 ---
 
