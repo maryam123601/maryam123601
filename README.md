@@ -36,3 +36,18 @@ I'm a passionate data analyst who loves telling stories with data 📊. I enjoy 
 I started learning Python just out of curiosity... now I use it to solve real-world problems! 
 
 ---
+
+### 📊 GitHub Stats
+
+![Mariam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maryam123601&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maryam123601&layout=compact&theme=radical)
+
+---
+
+### 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=maryam123601&theme=radical)](https://git.io/streak-stats)
+
+---
+
+---
